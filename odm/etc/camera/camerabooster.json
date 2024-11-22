@@ -1,0 +1,35 @@
+{
+  "version": "1.0",
+  "product": "spes",
+  "configs_4Gmem": [
+        {
+            "name": "white_list",
+            "config": [
+                "com.android.camera",
+                "android.process.media",
+                "com.miui.gallery",
+                "com.android.traceur",
+                "com.miui.home",
+                "com.tencent.mm",
+                "com.tencent.mm:push",
+                "com.tencent.mobileqq:MSF",
+                "com.whatsapp",
+                "org.telegram.messenger",
+                "org.thunderdog.challegram",
+                "com.facebook.orca",
+                "com.facebook.katana",
+                "jp.naver.line.android",
+                "com.ss.android.lark.kami:wschannel",
+                "com.phonetest.application:CameraMemoryWatcher",
+                "com.phonetest.application",
+                "android.camera.cts",
+                "android.camera.cts:errorLoggingServiceProcess",
+                "com.miui.avpressuretest",
+                "com.android.mms:mms_service",
+                "com.miui.securitycenter:ui",
+                "com.google.android.gms",
+                "com.google.android.googlequicksearchbox:search"
+            ]
+        }
+     ]
+}

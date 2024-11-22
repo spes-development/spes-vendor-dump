@@ -1,0 +1,3 @@
+require version-baseband=1.1.c1-00027-KD_ALL_PACK-3.21298.20
+require version-trustzone=TZ.XF.5.1-01070-1
+require version-vendor=1727583645

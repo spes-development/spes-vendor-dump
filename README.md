@@ -1,0 +1,20 @@
+## missi_phoneext4_global-user 13 TKQ1.221114.001 V816.0.8.0.TGCMIXM release-keys
+- Manufacturer: xiaomi
+- Platform: bengal
+- Codename: spes
+- Brand: Redmi
+- Flavor: missi_phoneext4_global-user
+- Release Version: 13
+- Kernel Version: 4.19.157
+- Id: TKQ1.221114.001
+- Incremental: V816.0.8.0.TGCMIXM
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Treble Device: true
+- Locale: en-GB
+- Screen Density: undefined
+- Fingerprint: Redmi/spes/spes:13/TKQ1.221114.001/V816.0.8.0.TGCMIXM:user/release-keys
+- OTA version: 
+- Branch: missi_phoneext4_global-user-13-TKQ1.221114.001-V816.0.8.0.TGCMIXM-release-keys
+- Repo: redmi_spes_dump
